@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blamechickenman
-- 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in playing video games
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing right now...
 - 📫 How to reach me: you can't...
 
